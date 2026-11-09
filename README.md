@@ -77,19 +77,19 @@ Customer distribution across the six RFM segments.
 ## Dashboard Screenshots
 
 ### Home Page
-<img width="1312" height="717" alt="Home Page" src="https://github.com/user-attachments/assets/032f9c4a-51f1-4f0b-b15f-a348899c22a4" />
+![Home Page](./IKEA-Customer-Analytics/05_Screenshots/Home%20Page.png)
 
 ### Customer Overview
-<img width="1172" height="717" alt="Customer Overview" src="https://github.com/user-attachments/assets/eab7424a-7358-4d9b-aef3-71547c0052b4" />
+![Customer Overview](./IKEA-Customer-Analytics/05_Screenshots/Customer%20Overview.png)
 
 ### Revenue Overview
-<img width="1171" height="721" alt="Revenue Overview" src="https://github.com/user-attachments/assets/9ce2784d-cbad-4a75-9c47-3815a5838339" />
+![Revenue Overview](./IKEA-Customer-Analytics/05_Screenshots/Revenue%20Overview.png)
 
 ### RFM Country
-<img width="1172" height="736" alt="RFM Country" src="https://github.com/user-attachments/assets/5143585a-8c01-4781-8b01-14860a71c3a3" />
+![RFM Country](./IKEA-Customer-Analytics/05_Screenshots/RFM%20Country.png)
 
 ### RFM Segment
-<img width="1170" height="716" alt="RFM Segment" src="https://github.com/user-attachments/assets/88003435-9bb8-4274-ab00-655bc15bc76b" />
+![RFM Segment](./IKEA-Customer-Analytics/05_Screenshots/RFM%20Segment.png)
 
 ## Key Business Recommendations
 
